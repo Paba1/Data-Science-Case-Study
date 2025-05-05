@@ -87,4 +87,3 @@ Feel free to reach out if you’re looking for a motivated junior data analyst o
 ---
 
 📁 *This is just one of several case studies I’ve created to build my portfolio — more coming soon!*
-
